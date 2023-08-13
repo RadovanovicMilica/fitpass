@@ -1,0 +1,8 @@
+*.txt
+*.json
+*.deb
+*.rpm
+fitpass.zip
+*.xml
+*.env
+Dockerfile
